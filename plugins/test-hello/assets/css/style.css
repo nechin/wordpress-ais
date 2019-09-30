@@ -1,0 +1,18 @@
+.hello-block {
+    padding: 5px;
+}
+
+.hello-text-day {
+    background-color: #fff;
+    color: #000;
+}
+
+.hello-text-evening {
+    background-color: #fff;
+    color: #999;
+}
+
+.hello-text-night {
+    background-color: #000;
+    color: #fff;
+}

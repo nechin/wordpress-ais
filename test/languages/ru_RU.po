@@ -1,0 +1,147 @@
+# This file is distributed under the GNU General Public License v2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Theme\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-08-02 10:35+0200\n"
+"PO-Revision-Date: 2019-09-30 22:16+0300\n"
+"Language-Team: Vitkalov\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n"
+"%100>=20) ? 1 : 2);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;esc_html_e;esc_html_x;__;_e;"
+"__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: 404.php:27
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже страница не была найдена. Может попробовать поиск?"
+
+#: archive.php:45
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: archive.php:46
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:47
+msgid "Page"
+msgstr "Страница"
+
+#: archive.php:53
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: partials\post\content.php:43
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: partials\post\content.php:50
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: comments.php:86
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "Результат поиска для: %s"
+
+#: search.php:52
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, ничего не найдено. Попробуйте другой поиск."
+
+#: includes\custom-metabox.php:6
+msgid "About Us"
+msgstr "О нас"
+
+#: includes\custom-metabox.php:16
+msgid "About Us text"
+msgstr "Текст блока \"О нас\""
+
+#: includes\custom-post-types.php:15
+msgid "News"
+msgstr "Новости"
+
+#: includes\custom-post-types.php:16
+msgid "One News"
+msgstr "Новость"
+
+#: includes\custom-post-types.php:17
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: includes\custom-post-types.php:18
+msgid "Add News"
+msgstr "Добавить новость"
+
+#: includes\custom-post-types.php:19
+msgid "Edit News"
+msgstr "Редактировать новость"
+
+#: includes\custom-post-types.php:20
+msgid "New News"
+msgstr "Новая новость"
+
+#: includes\custom-post-types.php:21
+msgid "View News"
+msgstr "Посмотреть новость"
+
+#: includes\custom-post-types.php:22
+msgid "Search News"
+msgstr "Искать новость"
+
+#: includes\custom-post-types.php:23
+msgid "News Not Found"
+msgstr "Новость не найдена"
+
+#: includes\custom-post-types.php:24
+msgid "News Not Found in Trash"
+msgstr "Новость не найдена в корзине"
+
+#: includes\custom-widgets.php:17
+msgid "Add widgets here to show About Us text"
+msgstr "Добавьте сюда виджет, чтобы показать текст в блоке О нас"
+
+#: includes\custom-widgets.php:29
+msgid "Add widgets here to show news"
+msgstr "Добавьте сюда виджет, чтобы показать новости"
+
+#: includes\custom-widgets.php:76
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes\custom-widgets.php:83
+msgid "Text:"
+msgstr "Текст:"
+
+#: includes\custom-widgets.php:112
+msgid "News List"
+msgstr "Список новостей"
+
+#: includes\custom-widgets.php:161
+msgid "Record count"
+msgstr "Количество записей"
+
+#: includes\custom-widgets.php:215
+msgid "Search Form"
+msgstr "Форма Поиска"
+
+#: includes\custom-widgets.php:232
+msgid "Search"
+msgstr "Поиск"

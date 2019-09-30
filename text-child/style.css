@@ -1,0 +1,17 @@
+/*
+Theme Name: Test Theme Child
+Theme URI: http://vitkalov.ru
+Author: Alexander Vitkalov
+Author URI: http://vitkalov.ru
+Description: This is a CHILD test theme that demonstrates the basic skills of working with the basic things of the WordPress.
+Version: 1.0
+Template: test
+Tags: two-columns, right-sidebar, footer-widgets, blog
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: test
+
+This theme, like WordPress, is licensed under the GPL.
+*/
+
+@import url("../test/style.css");

@@ -1,0 +1,9 @@
+/*
+ * Theme Name: Test Theme RTL CSS
+ * Description: Adds support for languages written in a Right To Left (RTL) direction.
+ */
+
+/*------------------------------------*
+	General & Commons
+*------------------------------------*/
+body { direction: rtl; unicode-bidi: embed; }
