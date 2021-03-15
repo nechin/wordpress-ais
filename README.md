@@ -1,4 +1,4 @@
-# wp_ais_test
+# WordPress AIS task
 Test task
 
 dev - contains the source files - SCSS, js, etc.
